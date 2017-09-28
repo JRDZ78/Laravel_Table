@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Table</title>
+</head>
+<body>
+
+	<div style="margin: auto;width: 100%;">
+		<table border="1" cellpadding="3" style="border-collapse: collapse;">
+			<thead>
+				<tr>
+					<th>NO</th>
+					<th>Name</th>
+					<th>NIM</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>1</td>
+					<td>Alpha</td>
+					<td>1904652436</td>
+				</tr>
+				<tr>
+					<td>2</td>
+					<td>Bravo</td>
+					<td>1908889474</td>
+				</tr>
+				<tr>
+					<td>3</td>
+					<td>Charlie</td>
+					<td>1901910382</td>
+				</tr>
+				<tr>
+					<td>4</td>
+					<td>Delta</td>
+					<td>1901895000</td>
+				</tr>
+				<tr>
+					<td>5</td>
+					<td>Else</td>
+					<td>1907778889</td>
+				</tr>
+				<tr>
+					<td>6</td>
+					<td>Fit</td>
+					<td>1909922341</td>
+				</tr>
+				<tr>
+					<td>7</td>
+					<td>Gamma</td>
+					<td>1905647382</td>
+				</tr>
+				<tr>
+					<td>8</td>
+					<td>Heat</td>
+					<td>1901098765</td>
+				</tr>
+				<tr>
+					<td>9</td>
+					<td>If</td>
+					<td>1908879345</td>
+				</tr>
+				<tr>
+					<td>10</td>
+					<td>Joule</td>
+					<td>1901425367</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+</body>
+</html>
